@@ -12,4 +12,15 @@ void main(){
   // Change an item
   numberList[0] = 46;
   print(numberList);
+
+  // MAPS
+  var cars = {"Ahmed": "Lexus lc500", "james":"Toyota prado"};
+  print(cars);
+  print(cars["Ahmed"]);
+
+  // Show Values
+  print(cars.values);
+
+  // Show Keys
+  print(cars.keys);
 }
