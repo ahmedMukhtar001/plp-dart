@@ -6,11 +6,12 @@ void main() {
     print("String: $firstName");
 
   // Integers
-  int myNum = 41;
-  print("Integer: $myNum");
-  
-  // Doubles
+    int myNum = 41;
+    print("Integer: $myNum");
 
+  // Doubles
+    double otherNum = 19.65;
+    print("Double: $otherNum");
   // Booleans
 
   // Dynamic
